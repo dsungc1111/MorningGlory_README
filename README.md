@@ -5,7 +5,7 @@
 
 
 <br> <br> 
-    ![poster](./Moring.png) 
+<img width="520" alt="screenshot" src="https://github.com/user-attachments/assets/15441584-f717-415b-b031-1fda5eaaf23c" />
 <br> <br> 
 # 🙋‍♀️ 프로젝트 주요 기능 
 - 닉네임, 프로필 사진 커스텀
