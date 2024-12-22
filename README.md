@@ -31,7 +31,7 @@
 
 - 아키텍처 및 디자인 패턴: MVVM, Combine, Repository/Input-Output Pattern
 
-- 네트워킹 및 데이터 처리: Alamofire, Realm
+- 네트워킹 및 데이터 처리: Alamofire, CoreData
 - UI 및 이미지 처리: SwiftUI, WidgetKit
 
 
