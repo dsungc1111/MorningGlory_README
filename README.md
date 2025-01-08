@@ -29,8 +29,7 @@
 # 🛠 프로젝트 기술스택
     
 
-- 아키텍처 및 디자인 패턴: MVVM, Combine, Repository/Input-Output Pattern
-
+- 아키텍처 및 디자인 패턴: MVVM, Combine, Input-Output, Repository Pattern
 - 네트워킹 및 데이터 처리: Alamofire, CoreData
 - UI 및 이미지 처리: SwiftUI, WidgetKit
 
